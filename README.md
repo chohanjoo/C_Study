@@ -9,4 +9,13 @@
 # 목차
 1학기
 
+  - data type
+  
+  - if & if - else
+  
+  - for & while
+  
+  - array
+  
+  
 2학기
