@@ -17,5 +17,9 @@
   
   - array
   
+  - function
+  
   
 2학기
+
+  - pointer
