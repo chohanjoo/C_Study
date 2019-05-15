@@ -23,3 +23,5 @@
 2학기
 
   - pointer
+  
+  - user define data type
