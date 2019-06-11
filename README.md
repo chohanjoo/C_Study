@@ -9,4 +9,19 @@
 # 목차
 1학기
 
+  - data type
+  
+  - if & if - else
+  
+  - for & while
+  
+  - array
+  
+  - function
+  
+  
 2학기
+
+  - pointer
+  
+  - user define data type
